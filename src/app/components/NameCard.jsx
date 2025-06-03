@@ -11,7 +11,7 @@ function NameCard() {
             <div className="flex flex-col md:flex-row items-center w-full justify-between">
                 <div className="flex-shrink-0">
                     <Image
-                        src="/images/avatar.jpeg"
+                        src="/images/avatar.jpg"
                         alt="Profile Picture"
                         width={240}
                         height={240}
