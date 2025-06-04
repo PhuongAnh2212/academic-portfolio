@@ -2,21 +2,14 @@
   "news": [
     {
       "id": 1,
-      "time": "11/11/2021",
-      "content": "Congratulations to John Doe for winning the Best Paper Award at the International Conference on Computational Biology!",
-      "href": "https://www.example.com"
+      "time": "19/05/2025",
+      "content": "My Capstone Project \"Designing a Photorealistic Simulation Platform for Robust Semantic Segmentation in Autonomous Vehicles\" earns Honors for innovation and excellence",
+      "href": "https://drive.google.com/file/d/1Vfit_xs2EAnr1bDVw1j16TsRFh-5X1UQ/view?usp=sharing"
     },
     {
       "id": 2,
-      "time": "10/01/2020",
-      "content": "John Doe has been selected as a finalist for the prestigious Young Investigator Award in Bioinformatics.",
-      "href": ""
-    },
-    {
-      "id": 3,
-      "time": "09/15/2023",
-      "content": "John Doe has been invited to give a keynote presentation at the upcoming Machine Learning in Genomics Workshop.",
-      "href": ""
+      "time": "07/06/2025",
+      "content": "Phuong Anh Graduates with Honors, Earning a Bachelor of Science from Fulbright University Vietnam"
     }
   ]
 }

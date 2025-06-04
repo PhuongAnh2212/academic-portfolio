@@ -2,17 +2,19 @@
   "job": [
     {
       "id": 1,
-      "title": "Software Engineer Intern",
-      "company": "Meta",
-      "location": "Menlo Park, CA",
+      "title": "AI Engineer Intern",
+      "company": "ForthAI",
+      "location": "Singapore",
       "project_name": "",
       "instructor": "",
-      "start_date": "06/2023",
-      "end_date": "09/2023",
+      "start_date": "06/2024",
+      "end_date": "09/2024",
       "description": [
-        "Developed new features for the Meta app using React Native and TypeScript",
-        "Collaborated with cross-functional teams to improve app performance and user experience",
-        "Conducted code reviews and provided feedback to team members"
+        "Focused on research and implementation of AI Agent technologies using frameworks such as AutoGen, LangChain, LangGraph, and crewAI.",
+        "Built plan-action agents and management agents for autonomous deployment applications.",
+        "Collaborated closely with the CEO/CTO, and founding team to develop an AI-powered platform for developers.",
+        "Gained hands-on experience with early-stage startup operations and technical stacks including Next.js, GCP, and Cloud Build.",
+        "Techstack: MERN"
       ],
       "href": ""
     },
@@ -66,48 +68,36 @@
   "education": [
     {
       "id": 1,
-      "school": "Brown University",
-      "degree": "M.S. in Computational Biology",
-      "status": "In Progress",
-      "start_date": "09/2023",
-      "end_date": "05/2025",
-      "gpa": "3.5 / 4.0",
+      "school": "Fulbright University Vietnam",
+      "degree": "B.S. in Computer Science",
+      "status": "Graduated",
+      "start_date": "08/2021",
+      "end_date": "06/2025",
+      "gpa": "3.46 / 4.0",
       "courses": [
         "Data Structures",
         "Algorithms",
-        "Machine Learning",
+        "Machine Learning for Data Science",
         "Computer Vision",
-        "Data Structures",
-        "Algorithms",
-        "Machine Learning",
-        "Computer Vision",
-        "Data Structures",
-        "Algorithms",
-        "Machine Learning",
-        "Computer Vision"
+        "Advanced Deep Learning",
+        "Robotics",
+        "Product Development"
       ],
       "other_info": [],
-      "href": "https://www.example.com"
+      "href": "https://drive.google.com/file/d/1SCwUA0UeUP6cqmiByjBzmcCNrtcQwcCh/view?usp=sharing"
     },
     {
       "id": 2,
-      "school": "Brown University",
-      "degree": "B.A. in Computational Biology",
+      "school": "Tran Phu High School for the Gifted",
+      "degree": "Biology Specialized",
       "status": "Graduated",
-      "start_date": "09/2019",
-      "end_date": "05/2023",
-      "gpa": "3.5 / 4.0",
-      "courses": [
-        "Data Structures",
-        "Algorithms",
-        "Machine Learning",
-        "Computer Vision"
-      ],
+      "start_date": "08/2018",
+      "end_date": "05/2021",
+      "gpa": "9.2 / 10.0",
+      "courses": [      ],
       "other_info": [
-        "Graduated with Honors",
-        "Dean's List"
-      ],
-      "href": ""
+        "Scholarship of Excellent for 3 years"
+      ]
     }
   ]
 }
