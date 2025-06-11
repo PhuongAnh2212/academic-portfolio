@@ -2,55 +2,52 @@
   "research": [
     {
       "id": 1,
-      "research_name": "Machine Learning for Drug Discovery",
+      "research_name": "Designing a Photorealistic Simulation Platform for Robust Semantic Segmentation in Autonomous Vehicles",
       "company": [
-        "Brown University",
-        "Google Research"
+        "Fulbright University Vietnam"
       ],
       "instructor": [
-        "Dr. John Doe",
-        "Dr. Jane Smith"
-      ],
-      "project": "Drug Discovery",
-      "collaborators": [
-        "Alice Johnson",
-        "Bob Smith"
-      ],
-      "abstract": [
-        "Machine learning has revolutionized the field of drug discovery by enabling the rapid identification of novel therapeutic compounds. In this project, we developed a deep learning model to predict the binding affinity of small molecules to target proteins, with the goal of accelerating the drug discovery process. Our model achieved state-of-the-art performance on a benchmark dataset and demonstrated the potential to significantly reduce the time and cost associated with drug development.",
-        "Drug discovery is a complex and time-consuming process that involves the identification of lead compounds, optimization of their chemical properties, and evaluation of their biological activity. Traditional methods for predicting drug-target interactions are often limited by their reliance on experimental data and lack of scalability. Machine learning offers a promising alternative by leveraging large-scale datasets to learn complex patterns and make accurate predictions."
-      ],
-      "keywords": [
-        "Machine Learning",
-        "Drug Discovery",
-        "Deep Learning"
-      ],
-      "href": {
-        "Github": "https://www.example.com",
-        "Demo": "https://www.example.com",
-        "File": "/project1.pdf"
-      },
-      "status": "In Progress"
-    },
-    {
-      "id": 2,
-      "research_name": "Machine Learning for Drug Discovery",
-      "company": [
-        "Brown University"
-      ],
-      "instructor": [
-        "Dr. John Doe"
+        "Dr. Dang Huynh"
       ],
       "project": "",
       "collaborators": [],
       "abstract": [
-        "Machine learning has revolutionized the field of drug discovery by enabling the rapid identification of novel therapeutic compounds. In this project, we developed a deep learning model to predict the binding affinity of small molecules to target proteins, with the goal of accelerating the drug discovery process. Our model achieved state-of-the-art performance on a benchmark dataset and demonstrated the potential to significantly reduce the time and cost associated with drug development."
+        "This capstone project proposes a comprehensive pipeline and foundational framework for de- veloping autonomous driving systems. The primary contribution is the creation of a high-fidelity simulation platform designed to generate realistic urban environments for testing and training au- tonomous driving models. As a part of this platform, semantic segmentation is demonstrated as one example of an application that benefits from simulated data. The platform enables the genera- tion of synthetic images under varying real-world conditions, facilitating the training of models for tasks such as object detection and scene understanding. The project also addresses challenges like class imbalance, offering insights and solutions for improving model performance in this context. The results highlight the potential of using simulated environments as a cost-effective and scalable approach for developing and testing autonomous driving applications. Further recommendations for refining the platform include incorporating real-world data, improving model generalization, and enhancing segmentation accuracy for deployment in real-time driving scenarios."
       ],
       "keywords": [
-        "Machine Learning"
+        "Machine Learning, Computer Vision, Autonomous Driving"
       ],
       "href": {
-        "Github": "https://www.example.com"
+        "Github": "https://github.com/PhuongAnh2212/capstone-project",
+        "Contributed Dataset": "https://www.kaggle.com/datasets/pdphanh/ue-city-dataset",
+        "File": "public/capstone-thesis.pdf"
+      },
+      "status": "Completed"
+    },
+    {
+      "id": 2,
+      "research_name": "Understanding User Sentiment and Identity Factors in Reviews of Meta’s Threads App",
+      "company": [
+        "Fulbright University Vietnam"
+      ],
+      "instructor": [
+        "Dr. Trung Phan"
+      ],
+      "project": "Computational Social Media",
+      "collaborators": [
+        "Uyen Truong", "Hieu Hoang", "Hoang Tran", "Nguyen Nguyen",
+        "Khiem Tran"
+      ],
+      "abstract": [
+        "Investigates the psychological underpinnings and sentiment patterns of user reviews for social media applications, with a focus on Threads. Through a mixed-methods approach combining qualitative coding and quantitative analysis, we identified linguistic markers that reflect user regret, platform comparison, and deeper psychological drivers such as autonomy, control, social belonging, and novelty seeking. Regret and comparison markers were found in a substantial number of reviews, with a small subset showing dissonance through the presence of both. Identity-linked terms such as Twitter, Instagram, data, and privacy were strongly associated with review sentiment, as confirmed by a chi-squared test. Additionally, psychological drivers were differentially expressed by sentiment polarity, with autonomy and      control concerns dominating negative reviews and social belonging       frequently emerging in positive ones. These findings offer insights     into how users cognitively and emotionally evaluate platforms, and      they provide design implications for improving user satisfaction in     social media apps."
+      ],
+      "keywords": [
+        "Deep Learning",
+        "Sentiment",
+        "Nature Language Processing"
+      ],
+      "href": {
+        "File": "https://drive.google.com/file/d/1qWfip-aEVXsvwaZd-WUjdSRi8yyeCjpx/view?usp=sharing"
       },
       "status": "Completed"
     }

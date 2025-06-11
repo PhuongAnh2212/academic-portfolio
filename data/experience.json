@@ -17,52 +17,30 @@
         "Techstack: MERN"
       ],
       "href": ""
-    },
-    {
-      "id": 2,
-      "title": "Research Assistant",
-      "company": "Brown University & Department of Health of Rhode Island",
-      "location": "Providence, RI",
-      "project_name": "Deep Learning for Genomics and Precision Medicine",
-      "instructor": "Prof. Jane Smith",
-      "start_date": "09/2022",
-      "end_date": "05/2023",
-      "description": [
-        "Designed and implemented deep learning models for analyzing genomic data",
-        "Published research papers in top-tier conferences and journals",
-        "Presented findings at international conferences and workshops"
-      ],
-      "href": "https://www.example.com"
-    },
-    {
-      "id": 3,
-      "title": "Research Assistant",
-      "company": "Some University",
-      "location": "City, State",
-      "project_name": "Project Name",
-      "instructor": "",
-      "start_date": "09/2012",
-      "end_date": "05/2013",
-      "description": [],
-      "href": ""
     }
   ],
   "extracurricular": [
     {
       "id": 1,
-      "title": "Extracurricular Activity",
-      "company": "Company Name",
-      "location": "City, State",
-      "project_name": "Project Name",
-      "instructor": "",
-      "start_date": "Month Year",
-      "end_date": "Month Year",
+      "title": "Founding Team - Project Manager",
+      "company": "Fulbright Digital Humanities Lab",
+      "location": [],
+      "project_name": "",
+      "instructor": "Dr. Nguyen Nam",
+      "start_date": "June 2022",
+      "end_date": "June 2023",
       "description": [
-        "Description of the activity",
-        "Description of the activity",
-        "Description of the activity"
+        "Created the official branding and logo for Digital Humanities Lab Fulbright, establishing a cohesive and recognizable visual identity across platforms.",
+        "Designed social media content and promotional materials to enhance outreach and community engagement.",
+        "Planned and executed interdisciplinary digital projects focused on cultural and social impact, including tools for language and identity.",
+        "Built a Sino-Nom to Vietnamese Name Meaning Converter to help users interpret traditional Vietnamese names from ancient scripts.",
+        "Developed both internal tools and public-facing applications that support educational and research initiatives.",
+        "Designed and implemented user-friendly UI/UX with a focus on responsive design and accessibility.",
+        "Built backend systems to support dynamic data processing and user interactions across projects.",
+        "Collaborated with students, faculty, and researchers across multiple disciplines to drive project success."
       ],
-      "href": ""
+
+      "href": "https://www.linkedin.com/company/dhlab-fulbright/posts/?feedView=all"
     }
   ],
   "education": [
