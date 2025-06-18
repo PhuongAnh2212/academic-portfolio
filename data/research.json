@@ -12,7 +12,7 @@
       "project": "",
       "collaborators": [],
       "abstract": [
-        "This capstone project proposes a comprehensive pipeline and foundational framework for de- veloping autonomous driving systems. The primary contribution is the creation of a high-fidelity simulation platform designed to generate realistic urban environments for testing and training au- tonomous driving models. As a part of this platform, semantic segmentation is demonstrated as one example of an application that benefits from simulated data. The platform enables the genera- tion of synthetic images under varying real-world conditions, facilitating the training of models for tasks such as object detection and scene understanding. The project also addresses challenges like class imbalance, offering insights and solutions for improving model performance in this context. The results highlight the potential of using simulated environments as a cost-effective and scalable approach for developing and testing autonomous driving applications. Further recommendations for refining the platform include incorporating real-world data, improving model generalization, and enhancing segmentation accuracy for deployment in real-time driving scenarios."
+        "This capstone project proposes a comprehensive pipeline and foundational framework for developing autonomous driving systems. The primary contribution is the creation of a high-fidelity simulation platform designed to generate realistic urban environments for testing and training au- tonomous driving models. As a part of this platform, semantic segmentation is demonstrated as one example of an application that benefits from simulated data. The platform enables the genera- tion of synthetic images under varying real-world conditions, facilitating the training of models for tasks such as object detection and scene understanding. The project also addresses challenges like class imbalance, offering insights and solutions for improving model performance in this context. The results highlight the potential of using simulated environments as a cost-effective and scalable approach for developing and testing autonomous driving applications. Further recommendations for refining the platform include incorporating real-world data, improving model generalization, and enhancing segmentation accuracy for deployment in real-time driving scenarios."
       ],
       "keywords": [
         "Machine Learning, Computer Vision, Autonomous Driving"
@@ -20,7 +20,7 @@
       "href": {
         "Github": "https://github.com/PhuongAnh2212/capstone-project",
         "Contributed Dataset": "https://www.kaggle.com/datasets/pdphanh/ue-city-dataset",
-        "File": "public/capstone-thesis.pdf"
+        "File": "https://drive.google.com/file/d/1Vfit_xs2EAnr1bDVw1j16TsRFh-5X1UQ/view?usp=sharing"
       },
       "status": "Completed"
     },
