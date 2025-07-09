@@ -4,7 +4,7 @@ import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faBars, faTimes} from '@fortawesome/free-solid-svg-icons';
 import personalInfo from '../../../data/personalInfo.json';
 // import publications from '../../../data/publications.json';
-import projects from '../../../data/projects.json';
+// import projects from '../../../data/projects.json';
 import research from '../../../data/research.json';
 import experience from "../../../data/experience.json";
 
@@ -24,7 +24,7 @@ function Header({scrolled}) {
                         <NavLink title="About" href="/"/>
                         {(experience.extracurricular.length > 0 || experience.job.length > 0 || experience.education.length > 0) && (<NavLink title="Experience" href="/experience"/>)}
                         {research.research.length > 0 && (<NavLink title="Research" href="/research"/>)}
-                        {projects.projects.length > 0 && (<NavLink title="Projects" href="/projects"/>)}
+                        {/* {projects.projects.length > 0 && (<NavLink title="Projects" href="/projects"/>)} */}
                     </nav>
                     <div className="md:hidden">
                         <button onClick={toggleMenu}>
@@ -41,7 +41,7 @@ function Header({scrolled}) {
                     <NavLink title="About" href="/"/>
                     {(experience.extracurricular.length > 0 || experience.job.length > 0 || experience.education.length > 0) && (<NavLink title="Experience" href="/experience"/>)}
                     {publications.publications.length > 0 && (<NavLink title="Research" href="/research"/>)}
-                    {projects.projects.length > 0 && (<NavLink title="Projects" href="/projects"/>)}
+                    {/* {projects.projects.length > 0 && (<NavLink title="Projects" href="/projects"/>)} */}
                 </nav>
             )}
         </header>
