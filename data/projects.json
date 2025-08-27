@@ -11,7 +11,7 @@
       "techstack": ["React", "Golang"],
       "href": {
         "Github": "https://github.com/sciencelab-ltd/hackathon-game",
-        "Demo": "https://github.com/sciencelab-ltd/hackathon-game"
+        "Demo": "https://hackagame.netlify.app/"
       }
     },
     {
