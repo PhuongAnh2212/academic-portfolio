@@ -2,28 +2,55 @@
   "projects": [
     {
       "id": 1,
-      "title": "Machine Learning for Drug Discovery",
+      "title": "Hackathon Game (Progressive Web App)",
       "description": [
-        "Machine learning has revolutionized the field of drug discovery by enabling the rapid identification of novel therapeutic compounds. In this project, we developed a deep learning model to predict the binding affinity of small molecules to target proteins, with the goal of accelerating the drug discovery process. Our model achieved state-of-the-art performance on a benchmark dataset and demonstrated the potential to significantly reduce the time and cost associated with drug development.",
-        "Drug discovery is a complex and time-consuming process that involves the identification of lead compounds, optimization of their chemical properties, and evaluation of their biological activity. Traditional methods for predicting drug-target interactions are often limited by their reliance on experimental data and lack of scalability. Machine learning offers a promising alternative by leveraging large-scale datasets to learn complex patterns and make accurate predictions."
+        "A progressive web app designed to host and run hackathons for high school students. Built with React and a Golang backend, the app allows students to participate, collaborate, and submit their projects in a smooth, mobile-friendly interface.",
+        "The app was developed for real-world use in educational hackathons, showcasing scalability and ease of access without requiring native installation."
       ],
-      "image": "/images/test_project.jpeg",
+      "image": "/images/hackathon_game.png",
+      "techstack": ["React", "Golang"],
       "href": {
-        "Github": "https://www.example.com",
-        "Demo": "https://www.example.com",
-        "File": "/project1.pdf"
+        "Github": "https://github.com/sciencelab-ltd/hackathon-game",
+        "Demo": "https://github.com/sciencelab-ltd/hackathon-game"
       }
     },
     {
       "id": 2,
-      "title": "Machine Learning for Drug Discovery",
+      "title": "Speech Emotion Recognition (Inside Out Inspired)",
       "description": [
-        "Machine learning has revolutionized the field of drug discovery by enabling the rapid identification of novel therapeutic compounds. In this project, we developed a deep learning model to predict the binding affinity of small molecules to target proteins, with the goal of accelerating the drug discovery process. Our model achieved state-of-the-art performance on a benchmark dataset and demonstrated the potential to significantly reduce the time and cost associated with drug development."
+        "Developed a lightweight real-time speech emotion recognition (SER) system using SVM and MFCC features. The system predicts user emotions (inspired by Pixar's 'Inside Out') from voice inputs, visualizes emotional trends, and logs data via MATLAB Mobile.",
+        "Applied data augmentation techniques such as noise addition and pitch shifting to improve model robustness."
       ],
-      "image": "",
+      "image": "/images/speech.png",
+      "techstack": ["MATLAB", "Python"],
       "href": {
-        "Github": "https://www.example.com",
-        "Showcase": "https://www.example.com"
+        "Github": "https://github.com/PhuongAnh2212/Emotional-Detection-using-SVM-on-MATLAB-Mobile"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Color Tracking Fruit Ninja Game",
+      "description": [
+        "A computer vision project that uses webcam-based color tracking to play Fruit Ninja. Players use two light sticks with distinct colors as interactive controllers, simulating sword slashes to slice fruits on the screen in real time.",
+        "The project demonstrates practical applications of object tracking, contour detection, and gesture-based interaction."
+      ],
+      "image": "/images/colorgame.png",
+      "techstack": ["Python", "OpenCV"],
+      "href": {
+        "Github": "https://github.com/PhuongAnh2212/ComVi-ColorTrackingGame"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Autonomous Robot Navigation with A* Algorithm",
+      "description": [
+        "Designed and built a mobile robot equipped with camera, LiDAR, and embedded controllers to perform autonomous navigation. Implemented the A* algorithm to find the shortest path in a mapped environment.",
+        "The system translates path planning outputs into optimal motor control signals for Arduino, enabling the robot to navigate toward its destination with efficient wheel speed control."
+      ],
+      "image": "/images/robot.jpg",
+      "techstack": ["C", "Arduino", "Embedded Systems", "ROS2"],
+      "href": {
+        "Github": "https://github.com/YoneJ/Final-Robot-CV-PID-Lidar-ROS-A_star-ICP"
       }
     }
   ]

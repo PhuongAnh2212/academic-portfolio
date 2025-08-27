@@ -8,7 +8,7 @@ import experience from "../../../data/experience.json";
 
 const cards = [
   { title: 'Experience', path: '/experience', condition: experience.extracurricular.length > 0 || experience.job.length > 0 || experience.education.length > 0 },
-  { title: 'Publications', path: '/publications', condition: publications.publications.length > 0 },
+  // { title: 'Publications', path: '/publications', condition: publications.publications.length > 0 },
   { title: 'Research', path: '/research', condition: research.research.length > 0 },
   { title: 'Projects', path: '/projects', condition: projects.projects.length > 0 },
 ];
